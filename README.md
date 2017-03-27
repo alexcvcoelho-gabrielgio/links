@@ -8,7 +8,7 @@ Pasta que contem as refencias bibliograficas encontradas para o TCC (de prefenci
 ### CQRS
 [CQRS by Martin Fowler](https://martinfowler.com/bliki/CQRS.html)
 
-[CQRS Event Sourcing and Kafka](https://www.confluent.io/blog/event-sourcing-cqrs-stream-processing-apache-kafka-whats-connection/)
+[CQRS Event Sourcing and Kafka by Neha Narkhede](https://www.confluent.io/blog/event-sourcing-cqrs-stream-processing-apache-kafka-whats-connection/)
 
 ### Redis
 [Commands](https://redis.io/commands)
