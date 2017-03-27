@@ -1,7 +1,7 @@
 # Links
 
-### ./referencias
-Pasta que contem as refencias bibliograficas encontradas para o TCC (de prefencias em .bibtex)
+### referencias.bibtex
+Contem as refencias bibliograficas encontradas para o TCC (de prefencias em .bibtex)
 
 ## Links e referencias para teoria do TCC
 
