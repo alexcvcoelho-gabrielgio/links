@@ -1,0 +1,11 @@
+
+@misc{noauthor_event_2016,
+	title = {Event sourcing, {CQRS}, stream processing and {Apache} {Kafka}: {What}’s the connection?},
+	shorttitle = {Event sourcing, {CQRS}, stream processing and {Apache} {Kafka}},
+	url = {https://www.confluent.io/blog/event-sourcing-cqrs-stream-processing-apache-kafka-whats-connection/},
+	abstract = {Event sourcing as an application architecture pattern is rising in popularity. Event sourcing involves modeling the state changes made by applications as an immutable sequence or “log” of events. Instead …},
+	urldate = {2017-03-27TZ},
+	journal = {Confluent},
+	month = sep,
+	year = {2016}
+}
