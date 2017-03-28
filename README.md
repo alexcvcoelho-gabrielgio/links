@@ -36,4 +36,5 @@ Contem as refencias bibliograficas encontradas para o TCC (de prefencias em .bib
 ## Artigos interesantes
 
 [OO vs FP by Uncle Bob](http://blog.cleancoder.com/uncle-bob/2014/11/24/FPvsOO.html)
+
 [Dicionario PT-BR](http://pt-br.libreoffice.org/assets/Uploads/PT-BR-Documents/VERO/ptBR-2013-10-30AOC-2.zip)
