@@ -6,16 +6,21 @@ Contem as refencias bibliograficas encontradas para o TCC (de prefencias em .bib
 ## Links e referencias para teoria do TCC
 
 ### CQRS
+
 [CQRS by Martin Fowler](https://martinfowler.com/bliki/CQRS.html)
 
 [CQRS Event Sourcing and Kafka by Neha Narkhede](https://www.confluent.io/blog/event-sourcing-cqrs-stream-processing-apache-kafka-whats-connection/)
 
+[Clarified CQRS](http://udidahan.com/2009/12/09/clarified-cqrs/) grande mas vale a pena ( ͡° ͜ʖ ͡°)
+
 ### Redis
+
 [Commands](https://redis.io/commands)
 
 [Alura Redis](https://www.alura.com.br/curso-online-nosql-chave-valor-com-redis-1)
 
 ### Clojure
+
 [Leiningen](https://leiningen.org/)
 
 [Clojure for the brave and true](http://www.braveclojure.com/)
@@ -32,9 +37,11 @@ Contem as refencias bibliograficas encontradas para o TCC (de prefencias em .bib
 
 [Zotero](https://www.zotero.org/) para criar e regerencias referencias de sites, podendo exportalas para .bibtex
 
+[Dicionario PT-BR](http://pt-br.libreoffice.org/assets/Uploads/PT-BR-Documents/VERO/ptBR-2013-10-30AOC-2.zip)
 
 ## Artigos interesantes
 
 [OO vs FP by Uncle Bob](http://blog.cleancoder.com/uncle-bob/2014/11/24/FPvsOO.html)
 
-[Dicionario PT-BR](http://pt-br.libreoffice.org/assets/Uploads/PT-BR-Documents/VERO/ptBR-2013-10-30AOC-2.zip)
+[Understanding Clojure's Persistent Vectos, pt.1](http://hypirion.com/musings/understanding-persistent-vector-pt-1)
+
