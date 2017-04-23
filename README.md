@@ -31,6 +31,10 @@ Contem as refencias bibliograficas encontradas para o TCC (de prefencias em .bib
 
 [Web Development with Clojure](https://books.google.com.br/books?id=jzvRsgEACAAJ&dq=clojure+for+web+services&hl=en&sa=X&ved=0ahUKEwi98JeIwvXSAhVBlpAKHahKDTMQ6AEILzAC) (nao achei free)
 
+### Kafka
+
+[Kafka in a Nutshell](https://sookocheff.com/post/kafka/kafka-in-a-nutshell/)
+
 ## Ferramentas usadas
 
 [WBS tools](http://www.wbstool.com/) para WBS (duh!)
