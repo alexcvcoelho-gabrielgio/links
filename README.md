@@ -35,6 +35,10 @@ Contem as refencias bibliograficas encontradas para o TCC (de prefencias em .bib
 
 [Kafka in a Nutshell](https://sookocheff.com/post/kafka/kafka-in-a-nutshell/)
 
+### Datomic
+
+[Livro Clojure](https://github.com/clojurians-org/clojure-ebook/blob/master/Professional%20Clojure.pdf) (datomic capitulo 6)
+
 ## Ferramentas usadas
 
 [WBS tools](http://www.wbstool.com/) para WBS (duh!)
